@@ -1,1 +1,1 @@
-# DataCleaning_of_NashvilleHousingData
+This repository contains a .SQL file which has all the queries used in this project of data cleaning of Nashville Housing Data. I used MS-SQL server for doing all the query work . Firstly the raw data was transported in SQL server database with the help of import data wizard option from the raw data .xlx file . After all the necessary steps performed through SQL queries ,the final cleaned data was stored in a .csv file which can be used for further analysis by any anlytical methods or softwares. 
